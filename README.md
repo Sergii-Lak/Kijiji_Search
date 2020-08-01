@@ -16,6 +16,7 @@ The first parameter is the word or combination of words to search (string), and 
 Example:
 
 var Z = SearchCarsTrucks("Toyota Camry", 5)
+
 Z.SearchInTitle()
 # ------------------------------------------------
 
